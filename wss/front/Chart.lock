@@ -1,0 +1,6 @@
+dependencies:
+- name: c3e-chart-workspace
+  repository: oci://registry.digitalocean.com/strivly
+  version: 0.1.0
+digest: sha256:f99a74852070abdf5e7f6207cdab65d90b810d1b799fbacf27251710df9fc6f2
+generated: "2025-05-13T13:28:50.46113657+02:00"

@@ -1,0 +1,12 @@
+apiVersion: v2
+name: helm
+description: A Helm chart for FRONT
+type: application
+version: 0.1.0
+appVersion: 0.1.0
+dependencies:
+  - name: c3e-chart-workspace
+    repository: oci://registry.digitalocean.com/strivly
+    version: 0.1.0
+    alias: workspace
+
