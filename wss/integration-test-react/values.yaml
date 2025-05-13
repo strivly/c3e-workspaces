@@ -1,0 +1,3 @@
+workspace:
+  namespace: integration-react
+  serviceAccountName: integration-react
